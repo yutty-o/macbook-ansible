@@ -1,0 +1,12 @@
+homebrew_cask_packages:
+  - { name: iterm2 }
+  - { name: firefox }
+  - { name: google-chrome }
+  - { name: adobe-reader }
+  - { name: java }
+  - { name: slack }
+  - { name: kobito }
+  - { name: webstorm }
+  - { name: intellij-idea }
+  - { name: vagrant }
+  - { name: virtualbox }
